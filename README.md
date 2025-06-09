@@ -14,16 +14,14 @@ O sistema detecta quando uma pessoa ou objeto entra em uma área perigosa ou res
 
 ## ⚙️ Tecnologias e Componentes
 
-- **Arduino Uno![Powerful Esboo](https://github.com/user-attachments/assets/a01a1ee8-8f6f-4dce-9aa8-f0c3d8584e3c)
-**![WhatsApp Image 2025-06-08 at 18 22 29](https://github.com/user-attachments/assets/2c0bd408-413e-4f70-9017-e937b43e7181)
-
+- **Arduino Uno
 - **Sensor Ultrassônico HC-SR04**
 - **Módulo Buzzer**
 - **Python**
 - **Tkinter (Interface gráfica)**
 - **PySerial (Comunicação com Arduino)**
-![Uploading Powerful Esboo.png…]()
-
+**![Powerful Esboo](https://github.com/user-attachments/assets/a01a1ee8-8f6f-4dce-9aa8-f0c3d8584e3c)
+**![WhatsApp Image 2025-06-08 at 18 22 29](https://github.com/user-attachments/assets/2c0bd408-413e-4f70-9017-e937b43e7181)
 ## 🧠 Funcionamento
 
 1. O Arduino monitora constantemente a distância usando o sensor ultrassônico.
