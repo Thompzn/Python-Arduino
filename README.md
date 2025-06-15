@@ -14,7 +14,7 @@ O sistema detecta quando uma pessoa ou objeto entra em uma área perigosa ou res
 
 ## ⚙️ Tecnologias e Componentes
 
-- **Arduino Uno
+- **Arduino Uno**
 - **Sensor Ultrassônico HC-SR04**
 - **Módulo Buzzer**
 - **Python**
