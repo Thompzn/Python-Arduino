@@ -19,7 +19,7 @@ O sistema detecta quando uma pessoa ou objeto entra em uma área perigosa ou res
 - **Módulo Buzzer**
 - **Python**
 - **Tkinter (Interface gráfica)**
-- **PySerial (Comunicação com Arduino)
+- **PySerial (Comunicação com Arduino)**
 **![Powerful Esboo](https://github.com/user-attachments/assets/a01a1ee8-8f6f-4dce-9aa8-f0c3d8584e3c)
 **![WhatsApp Image 2025-06-08 at 18 22 29](https://github.com/user-attachments/assets/2c0bd408-413e-4f70-9017-e937b43e7181)
 ## 🧠 Funcionamento
